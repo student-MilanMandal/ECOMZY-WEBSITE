@@ -56,13 +56,9 @@ out-tsc/
 *.tgz
 
 # dotenv environment variable files
-.env
-.env.test
-.env.production
-.env.local
 
 # MacOS files
 .DS_Store
 
 # Visual Studio Code settings
-.vscode/
+config.bat

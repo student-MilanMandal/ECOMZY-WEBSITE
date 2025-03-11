@@ -9,3 +9,5 @@ The Shopping Cart, also known as [Ecomzy](https://ecomzy-shopping-app-milan.netl
 - Cart Management: Users can add products to the cart, adjust the quantity of each item, and remove items from the cart.
 
 - Total Calculation: The application calculates and displays the total price of all the products in the cart.
+
+# [Open](https://ecomzy-shopping-app-milan.netlify.app/) Ecomzy app 👈
