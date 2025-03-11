@@ -10,11 +10,7 @@ const Navber = () => {
       <nav className="flex  justify-between items-center h-20 max-w-6xl mx-auto">
         <NavLink to="/">
           <div className="ml-5">
-            <img
-              src="/public/assets/images/logo.png"
-              className="h-14"
-              alt="Logo"
-            />
+            <img src="/assets/images/logo.png" className="h-14" alt="Logo" />
           </div>
         </NavLink>
         <div className="flex items-center font-medium text-slate-100 mr-5 space-x-6">
